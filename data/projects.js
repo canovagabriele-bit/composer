@@ -169,7 +169,7 @@ window.PORTFOLIO = {
     },
     {
       slug: "margherita-data",
-      title: "Margherita Data",
+      title: "Materia",
       year: "2025–26",
       category: "Fashion film · Sound design",
       format: "Fixed-media audiovisual works",
